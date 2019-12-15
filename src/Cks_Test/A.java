@@ -10,6 +10,9 @@ public class A {
 	public void print1() {
 		System.out.println("Welcome print");
 	}
+	public void print1Print() {
+		System.out.println("Welcome print");
+	}
 
 }
  
